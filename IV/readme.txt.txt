@@ -1,1 +1,0 @@
-IV folder contains the implementation of four IVs we use in the paper: DAIV, DeepSVDD, DeepKNN, PixelCNN++
