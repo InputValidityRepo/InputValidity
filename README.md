@@ -38,6 +38,16 @@ increase in the number of valid inputs by human assessment.
 
 # Demo
 We provide a cmd.txt file in each folder to demonstrate the usage of each technique. Please refer to the relative file for detailed usage.
+For example,
+To run DAIV input validator on MNIST generated test inputs:
+```
+cd IV/DAIV
+<code>python3 IV_MNIST.py<code>
+```
+To run DAIV input validator on Udacity generated test inputs:
+```
+python3 IV_driving.py
+```
 
 # Data 
 1. MNIST: we provide mnist.pkl.gz file that contains the MNIST dataset. Users can also download it from other source.
