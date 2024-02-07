@@ -1,0 +1,4 @@
+Usage for joint optimization of DeepXplore + DeepSVDD on Driving:
+For blackout, we use black_spots size=(3,3):           python3 gen_diff_SVDD.py blackout 1 .1 --step=255 100 100 .25 --target_model=0 --weight_svdd=0.1
+For light:                                             python3 gen_diff_SVDD.py light 1 0.1 --step=10 100 50 0.25 --target_model=0 --weight_svdd=0.1
+For occl, we use start_point=(0,0),occl_size=(30, 20): python3 gen_diff_SVDD.py occl 1 0.1 --step=10 100 50 0.25 --target_model=0 --weight_svdd=0.1
