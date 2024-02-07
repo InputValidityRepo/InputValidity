@@ -1,0 +1,2 @@
+To run PixelCNN++ IV for MNIST: python3 IV_mnist.py
+To run PixelCNN++ IV for Udacity: python3 IV_udacity.py
