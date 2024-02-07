@@ -42,7 +42,7 @@ For example,
 To run DAIV input validator on MNIST generated test inputs:
 ```
 cd IV/DAIV
-<code>python3 IV_MNIST.py<code>
+python3 IV_MNIST.py
 ```
 To run DAIV input validator on Udacity generated test inputs:
 ```
