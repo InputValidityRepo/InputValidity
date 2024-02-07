@@ -26,3 +26,21 @@ For improvement, we enhance the existing testing framework
 by taking into account valid data distribution through joint
 optimization. The results have demonstrated a 2% ∼ 10%
 increase in the number of valid inputs by human assessment.
+
+# Requirements
+1. Python 3.6
+2. Tensorflow 2.2
+3. Keras 2.3.1
+4. skimage 0.17.2
+5. Torch 1.12.1
+6. Torchvision 0.13.1
+7. Scipy 1.2.1
+
+# Demo
+We provide a cmd.txt file in each folder to demonstrate the usage of each technique. Please refer to the relative file for detailed usage.
+
+# Data 
+1. MNIST: we provide mnist.pkl.gz file that contains the MNIST dataset. Users can also download it from other source.
+2. Udacity: Please refer to [UdacityReader](https://github.com/rwightman/udacity-driving-reader) for download and read.
+
+
