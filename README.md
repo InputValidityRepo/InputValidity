@@ -38,8 +38,8 @@ increase in the number of valid inputs by human assessment.
 
 # Demo
 We provide a cmd.txt file in each folder to demonstrate the usage of each technique. Please refer to the relative file for detailed usage.
-For example,
-To run DAIV input validator on MNIST generated test inputs:
+
+For example, to run DAIV input validator on MNIST generated test inputs:
 ```
 cd IV/DAIV
 python3 IV_MNIST.py
