@@ -1,0 +1,6 @@
+To run DAIV input validator on MNIST generated test inputs, run:
+python3 IV_MNIST.py
+
+
+To run DAIV input validator on Udacity generated test inputs, run:
+python3 IV_driving.py
